@@ -219,16 +219,17 @@ footer {
   }
   
   .carousel-caption h5 {
-    color: #c2d1f1;
+    color: #FF4500;
     font-weight: bold;
     font-size: 44px; /* Large font size for the main heading */
     margin: 0 0 10px; /* Space between heading and paragraph */
   }
   
   .carousel-caption p {
-    color: #E64A19;
+    color: #ee2801;
+    font-weight: bold;
     margin-top: 10px;
-    font-size:28px; /* Smaller font size for the paragraph */
+    font-size:26px; /* Smaller font size for the paragraph */
   }
   
   
