@@ -213,7 +213,7 @@ footer {
     color: #fff; /* White text color */
     padding: 10px; /* Some padding around the text */
     text-align: left; /* Align text to the left */
-    max-width: 400px; /* Maximum width of the text box */
+    max-width: 450px; /* Maximum width of the text box */
     margin-left: 160px;
     height: 30%; /* Full height of the carousel */
   }
